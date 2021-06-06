@@ -1,0 +1,7 @@
+C:\Users\Korisnik\source\repos\Zadatak2(10posto)\Zadatak2(10posto)\obj\Debug\Zadatak2(10posto).csprojAssemblyReference.cache
+C:\Users\Korisnik\source\repos\Zadatak2(10posto)\Zadatak2(10posto)\obj\Debug\Zadatak2(10posto).csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\source\repos\Zadatak2(10posto)\Zadatak2(10posto)\bin\Debug\Zadatak2(10posto).exe.config
+C:\Users\Korisnik\source\repos\Zadatak2(10posto)\Zadatak2(10posto)\bin\Debug\Zadatak2(10posto).exe
+C:\Users\Korisnik\source\repos\Zadatak2(10posto)\Zadatak2(10posto)\bin\Debug\Zadatak2(10posto).pdb
+C:\Users\Korisnik\source\repos\Zadatak2(10posto)\Zadatak2(10posto)\obj\Debug\Zadatak2(10posto).exe
+C:\Users\Korisnik\source\repos\Zadatak2(10posto)\Zadatak2(10posto)\obj\Debug\Zadatak2(10posto).pdb
